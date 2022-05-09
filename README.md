@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![Wallpaper](https://github.com/Antar4s/DATA-ANALYSIS/blob/main/Assets/SELECT_FROM_DATA_ANALYSIS.png?raw=true)
+![Wallpaper](https://github.com/Antar4s/EDA/blob/main/Assets/EDA.png?raw=true)
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=LICENSE&message=MIT&color=GREEN&style=for-the-badge"/>     
@@ -8,14 +8,14 @@
 <br>
 
 <!-- TITLE -->
-<h1 align="center"> ANÁLISE DE DADOS</h1>
-<h3> ETL, Storytelling e Algoritmos de Machine Learning + Desafios. <br> Clique nos arquivos do repositório, ou se preferir, clone o repositório com o seguinte comando: </h3>
+<h1 align="center"> ANÁLISE DE DADOS EXPLORATÓRIOS (EDA) </h1>
+<h3> A análise exploratória de dados (EDA) é usada por cientistas de dados para analisar e investigar conjuntos de dados e resumir suas principais características, muitas vezes usando métodos de visualização de dados. Ela permite determinar a melhor forma de controlar as fontes de dados para obter as respostas que você precisa, tornando mais fácil para os cientistas de dados descobrir padrões, detectar anomalias, testar uma hipótese ou verificar suposições. <br>  <br>  Clique nos arquivos do repositório, ou se preferir, clone o repositório com o seguinte comando: </h3>
 
 <!-- CLONE REPOSITORY -->
 <h5 align="center">
   
 ```bash
-$ git clone https://github.com/Antar4s/DATA-SCIENCE
+$ git clone https://github.com/Antar4s/EDA
 ```
 </h6>
 
@@ -23,57 +23,19 @@ $ git clone https://github.com/Antar4s/DATA-SCIENCE
 <hr>
 
 ## Índices
-* [Análise de Dados](#análise-de-dados)
-* [Algoritmos de Classificação](#algoritmos-de-classificação)
-* [Algoritmos de Regressão Linear](#algoritmos-de-regressão-linear)
-* [Kaggle](#kaggle)
+* [Consumidor.gov.br](#consumidor.gov.br)
+
 <br>
 
 <!-- STRUCTURE 1 -->
-## Análise de Dados
-> A análise de dados é um processo de inspeção, limpeza, transformação e modelagem de dados com o objetivo de descobrir informações úteis, informar conclusões e apoiar a tomada de decisões.
-
-* 01 <a href="https://github.com/Antar4s/DATA-SCIENCE/blob/main/An%C3%A1lise%20Explorat%C3%B3ria/01_consumidor_gov.ipynb">Reclamações dos Consumidores </a>
+## I. Consumidor.gov.br 
+> Os indicadores do Consumidor.gov.br têm o objetivo de apresentar o desempenho das empresas em relação às reclamações registradas na plataforma.
+Essa avaliação se baseia no comportamento das próprias empresas, bem como nas avaliações de seus consumidores, que têm um prazo de até 20 dias para avaliar sua reclamação como Resolvida ou Não resolvida e ainda atribuir uma nota de satisfação ao atendimento da empresa.
+* <a href="https://github.com/Antar4s/DATA-SCIENCE/blob/main/An%C3%A1lise%20Explorat%C3%B3ria/01_consumidor_gov.ipynb">Reclamações</a>
     - Base: <a href="https://www.consumidor.gov.br/pages/dadosabertos/externo/">Consumidor GOV BR</a>
-    - Análise Exploratória
-<br>
-
-<!-- STRUCTURE 2 -->
-## Algoritmos de Classificação 
-> Classificação é o processo de encontrar ou descobrir um modelo (função) que ajuda a separar os dados em várias classes categóricas.
-
-* 01 <a href="https://github.com/Antar4s/DATA-SCIENCE/blob/main/Algoritmos%20de%20Classifica%C3%A7%C3%A3o/01_Iris_classification.ipynb">Classificação de Iris </a>
-    - Base: Iris
-    - Biblioteca: XGBoost
-    - Algoritmo: Classifier
-<br>
-
-<!-- STRUCTURE 3 -->
-## Algoritmos de Regressão Linear
-> Regressão é o processo de encontrar um modelo ou função para distinguir os dados em valores reais contínuos em vez de usar classes.
-* 01 <a href="https://github.com/Antar4s/DATA-SCIENCE/blob/main/Algoritmos%20de%20Regress%C3%A3o%20Linear/02_Mpg_regression.ipynb"> Previsão de Consumo de Combustível </a>
-    - Base: Mpg
-    - Biblioteca: XGboost
-    - Algoritmo: Regressor
-<br>
-
-* 02 <a href="https://github.com/Antar4s/DATA-SCIENCE/blob/main/Algoritmos%20de%20Regress%C3%A3o%20Linear/02_notas_regression.ipynb"> Previsão de Notas </a>
-    - Base: Criada Manualmente
-    - Biblioteca: Sklearn
-    - Algoritmo: LinearRegression
-<br>
-
-<!-- STRUCTURE 4 -->
-## Kaggle
-> Kaggle é uma plataforma bastante conhecida que permite aos usuários participar de competições de Machine Learning, explorar e publicar conjuntos de dados e também ter acesso a treinamentos.
-
-* Labdata Churn Challenge 2020 / <a href="https://github.com/Antar4s/DATA-ANALYSIS/blob/main/Kaggle/Labdata%20Churn%20Challenge%202020/Notebook.ipynb">Notebook</a>
-    - Descrição: Competição para previsão de churn em uma empresa de telecomunicações
-    - Biblioteca: PyCaret 
-    - Algoritmo: Gradient Boosting Classifier
-
 
 <br>
+
 <!-- BAR -->
 <hr>
 
