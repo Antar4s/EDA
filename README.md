@@ -1,5 +1,5 @@
 <!-- BANNER -->
-![Wallpaper](https://github.com/Antar4s/EDA/blob/main/Assets/EDA.png?raw=true)
+![Wallpaper](https://github.com/Antar4s/EDA/blob/main/assets/EDA.png?raw=true)
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=LICENSE&message=MIT&color=GREEN&style=for-the-badge"/>     
@@ -23,16 +23,16 @@ $ git clone https://github.com/Antar4s/EDA
 <hr>
 
 ## Índices
-* [Consumidor.gov.br](#consumidor.gov.br)
+* [I Consumidor Gov Br](#i-consumidor-gov-br)
 
 <br>
 
 <!-- STRUCTURE 1 -->
-## I. Consumidor.gov.br 
+## I Consumidor Gov Br
 > Os indicadores do Consumidor.gov.br têm o objetivo de apresentar o desempenho das empresas em relação às reclamações registradas na plataforma.
 Essa avaliação se baseia no comportamento das próprias empresas, bem como nas avaliações de seus consumidores, que têm um prazo de até 20 dias para avaliar sua reclamação como Resolvida ou Não resolvida e ainda atribuir uma nota de satisfação ao atendimento da empresa.
-* <a href="https://github.com/Antar4s/DATA-SCIENCE/blob/main/An%C3%A1lise%20Explorat%C3%B3ria/01_consumidor_gov.ipynb">Reclamações</a>
-    - Base: <a href="https://www.consumidor.gov.br/pages/dadosabertos/externo/">Consumidor GOV BR</a>
+### Base: <a href="https://www.consumidor.gov.br/pages/dadosabertos/externo/">Consumidor GOV BR</a>
+
 
 <br>
 
