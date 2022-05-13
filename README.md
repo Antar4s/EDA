@@ -2,7 +2,7 @@
 ![Wallpaper](https://github.com/Antar4s/EDA/blob/main/assets/EDA.png?raw=true)
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=LICENSE&message=MIT&color=GREEN&style=for-the-badge"/>     
+<img src="http://img.shields.io/static/v1?label=LICENSE&message=...&color=GREEN&style=for-the-badge"/>     
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 <br>
@@ -23,7 +23,7 @@ $ git clone https://github.com/Antar4s/EDA
 <hr>
 
 ## Índices
-* [I Consumidor Gov Br](#i-consumidor-gov-br)
+### * [I Consumidor Gov Br](#i-consumidor-gov-br)
 
 <br>
 
