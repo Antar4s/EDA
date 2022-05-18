@@ -23,7 +23,7 @@ $ git clone https://github.com/Antar4s/EDA
 <hr>
 
 ## Índices
-### * [I Consumidor Gov Br](#i-consumidor-gov-br)
+### [I Consumidor Gov Br](#i-consumidor-gov-br)
 
 <br>
 
