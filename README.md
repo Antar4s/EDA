@@ -37,7 +37,7 @@ Essa avaliação se baseia no comportamento das próprias empresas, bem como nas
 <!-- STRUCTURE 2 -->
 ## II Análise de RH
 > Análisando Correlações de Atributos, Tempo de Serviço, Distribuição de Idades, Proporção de Funcionários, etc.<br>Dados Fictícios.
-### Base:<br>Notebook: <a href="https://github.com/Antar4s/EDA/blob/main/notebook/02_dadosRH.ipynb"></a>
+### Base:<br>Notebook: <a href="https://github.com/Antar4s/EDA/blob/main/notebook/02_dadosRH.ipynb">Clique Aqui</a>
 <br>
 
 <!-- BAR -->
