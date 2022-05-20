@@ -31,9 +31,13 @@ $ git clone https://github.com/Antar4s/EDA
 ## I Consumidor Gov Br
 > Os indicadores do Consumidor.gov.br têm o objetivo de apresentar o desempenho das empresas em relação às reclamações registradas na plataforma.
 Essa avaliação se baseia no comportamento das próprias empresas, bem como nas avaliações de seus consumidores, que têm um prazo de até 20 dias para avaliar sua reclamação como Resolvida ou Não resolvida e ainda atribuir uma nota de satisfação ao atendimento da empresa.
-### Base: <a href="https://www.consumidor.gov.br/pages/dadosabertos/externo/">Consumidor GOV BR</a>
+### Base: <a href="https://www.consumidor.gov.br/pages/dadosabertos/externo/">Consumidor GOV BR</a><br>Notebook: <a href="https://github.com/Antar4s/EDA/blob/main/notebook/01_consumidor_gov.ipynb">Clique Aqui</a>
+<br>
 
-
+<!-- STRUCTURE 2 -->
+## II Análise de RH
+> Análisando Correlações de Atributos, Tempo de Serviço, Distribuição de Idades, Proporção de Funcionários, etc.<br>Dados Fictícios.
+### Base:<br>Notebook: <a href="https://github.com/Antar4s/EDA/blob/main/notebook/02_dadosRH.ipynb"></a>
 <br>
 
 <!-- BAR -->
